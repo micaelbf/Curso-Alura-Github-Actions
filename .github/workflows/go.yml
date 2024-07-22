@@ -5,9 +5,9 @@ name: Go
 
 on:
   push:
-    branches: [ "ci-actions" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "ci-actions" ]
+    branches: [ "main" ]
 
 jobs:
 
